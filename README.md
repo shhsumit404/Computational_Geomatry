@@ -1,4 +1,4 @@
-# Computational_Geomatry
+# Computational Geomatry
 You will be creating a Computational Geometry package in Python. You must use the following tools/approaches when you develop your code:
 
 Test-Driven Development
